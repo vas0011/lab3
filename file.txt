@@ -1,4 +1,0 @@
-./ArrayExamples.java:  // lowest number when calculating. Returns 0 if there are no elements or just
-./ArrayExamples.java:    double lowest = arr[0];
-./ArrayExamples.java:      if(num < lowest) { lowest = num; }
-./ArrayExamples.java:      if(num != lowest) { sum += num; }
